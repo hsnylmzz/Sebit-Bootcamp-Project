@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "author": "asdasdas",
+      "title": "sdassdasd",
+      "content": "aasdasdas",
+      "comments": [],
+      "id": 1
+    },
+    {
+      "author": "hsnylmz28",
+      "title": "Test",
+      "content": "Test Datası",
+      "comments": [],
+      "id": 2
+    },
+    {
+      "author": "Test3",
+      "title": "Test3",
+      "content": "Test3 Data",
+      "comments": [],
+      "id": 3
+    },
+    {
+      "author": "hakanaksoyy",
+      "title": "Deneme",
+      "content": "Deneme 1 2 3",
+      "comments": [],
+      "id": 4
+    }
+  ]
+}
